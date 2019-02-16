@@ -22,6 +22,19 @@ Nessa ramificação deste *commit* tem uma bloco de citação.
 
 >![alt text][foto2] 
 
+5. Usar o **Git Bash** para fazer *commits* e *pull request*.
+
+---
+As tabelas podem ser usadas aqui para visualizar os dados do projeto.
+
+**Data** | **Descrição** | **Valor**
+--- | --- | ---
+10/01/2019 | Laranja Lima | R$0,28
+15/01/2019|Laranja da Pérsia | R$ 0,32
+28/01/2019 | Laranja Bahia da Espanha | R$ 0,41
+14/02/2019 | Laranja Seleta | R$ 0,86
+14/02/2019 | Laranja Charmute | R$ 0,92
+15/02/2019| Laranja Pera | R$ 0,58
+
 [foto1]: http://farm1.static.flickr.com/115/308963480_493868c3c0.jpg "Um lugar da foto"
 [foto2]: http://farm4.static.flickr.com/3452/3279162929_0365e5295a.jpg "O piano no estúdio"
-
