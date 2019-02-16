@@ -10,3 +10,9 @@ Este _repo_ é um exercício de criar _commits_ e operações **Git**.
  
 2. Criar este repositório
 3. Frescar nos commits 
+4. Adicionar imagens
+
+   ![alt text][foto] 
+
+[foto]: http://farm1.static.flickr.com/115/308963480_493868c3c0.jpg "Um lugar da foto"
+
